@@ -13,3 +13,30 @@ Captivating visualizations helped uncover global reach and audience preferences.
 5️⃣ Benchmarking: Analyzed and compared the number of streamers who surpassed the average number of likes, comments, and subscribers. Identified and showcased the top 5 performers, providing valuable industry benchmarks. 
 
 Tools Used: Jupyter, pandas , seaborn,px and matplotlib 
+
+
+
+task 2  :Excited to share my latest project: Power BI Dashboard Creation for Terrorism Database! 
+
+1. Data Preparation:
+- Imported Terrorism Database & cleaned data to handle missing values and outliers.
+- Ensured correct data types assignment.
+
+2. Data Visualization:
+- Visualized number of terrorist attacks over time.
+- Mapped attack locations.
+- Analyzed trends in attack types & weapons used.
+- Compared casualties by region/year.
+
+3. Interactive Dashboard:
+- Built an interactive dashboard with slicers, filters, and drill-through options.
+- Enables dynamic data exploration.
+
+4. Narrative and Insights:
+- Provided key findings & insights into global terrorism trends.
+- Summarized most affected regions & impact of terrorism over time.
+
+5. User-Friendly Design:
+- Designed user-friendly dashboard with intuitive layout & appropriate color schemes.
+
+Excited to discuss insights & explore potential applications! hashtag
